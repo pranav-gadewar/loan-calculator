@@ -5,7 +5,7 @@ export default function Footer() {
             className="bg-black text-gray-400 text-center py-6 mt-auto"
         >
             <p className="text-lg">
-                © {new Date().getFullYear()} <span className="text-emerald-400">LoanCalc</span>.
+                © {new Date().getFullYear()} <span className="text-emerald-400">BudgetBuddy</span>.
                 Built to help you make smarter financial decisions.
             </p>
 
