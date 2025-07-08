@@ -9,7 +9,7 @@ export default function About() {
       </h2>
 
       <p className="text-lg md:text-xl max-w-3xl text-gray-300 mb-8">
-        At <span className="text-emerald-400 font-semibold">LoanCalc</span>, we help you make smarter financial decisions by providing an intuitive, easy-to-use loan calculator. Whether you're planning for a home, car, business, or education, our tool ensures you understand your repayments, interest, and total cost clearly.
+        At <span className="text-emerald-400 font-semibold">BudgetBuddy</span>, we help you make smarter financial decisions by providing an intuitive, easy-to-use loan calculator. Whether you're planning for a home, car, business, or education, our tool ensures you understand your repayments, interest, and total cost clearly.
       </p>
 
       <p className="text-lg md:text-xl max-w-3xl text-gray-300">
